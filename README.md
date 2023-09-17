@@ -1,1 +1,1 @@
-# Calculato App
+# Calculator App
